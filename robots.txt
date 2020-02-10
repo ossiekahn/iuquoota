@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: http://pheevaecha.daveandaliwedding.website/sitemap.xml
